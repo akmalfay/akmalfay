@@ -2,7 +2,7 @@
 
 I'm currently a student at **Universitas Negeri Semarang** majoring in **Informatics Engineering**.
 
-Mostly I spend my time juggling between campus stuff, freelance, playing Yu-Gi-Oh!, and figuring out why my code works (or doesn’t lol).
+Mostly I spend my time juggling between campus stuff, learning software engineering, playing Yu-Gi-Oh!, and figuring out why my code works (or doesn’t lol).
 
 ### 💻 About Me
 - Did a 6-month internship as a **Front-End Web Developer**.
